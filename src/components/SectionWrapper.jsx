@@ -14,7 +14,7 @@ const SectionWrapper = ({
 }) => {
   return (
     <div
-      className={`min-h-screen ${styles.section} ${
+      className={`min-h-screen sticky ${styles.section} ${
         reverse ? styles.bgWhite : styles.bgPrimary
       } ${banner}`}
     >

@@ -10,8 +10,8 @@ const Download = () => {
         <div>
           <h1 className={`${styles.h1Text} ${styles.blackText}`}>Contact Us</h1>
           <p className={`${styles.pText} ${styles.blackText}`}>
-            Request a feature, recommend additional workout programs to be added
-            or report a bug. Whatever you need we're here to help. All messages
+            Request a feature, tell us how we can improve your experoence, or
+            report a bug. Whatever you need we're here to help. All messages
             will be read and replied to.
           </p>
         </div>
